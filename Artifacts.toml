@@ -1,0 +1,135 @@
+[[Dust]]
+arch = "aarch64"
+git-tree-sha1 = "91ebd41d0f1a2db438d37be611c5c82351d05d36"
+os = "macos"
+
+    [[Dust.download]]
+    sha256 = "2396d16a6d531e466f5e3c5a017ba5760476a7429749c5e2e9cfdd4969b05e27"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.aarch64-apple-darwin.tar.gz"
+[[Dust]]
+arch = "aarch64"
+git-tree-sha1 = "6fcaebec7e801da1d232ab5ddd84d2c050ac1a93"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "bd56c7c545979a177bfa4de81ecbdc067f0887551f6c06a664b82be71fe96f6b"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.aarch64-linux-gnu.tar.gz"
+[[Dust]]
+arch = "aarch64"
+git-tree-sha1 = "4167cc0bd4ef8fd59abb7282483f18b0595b3eb8"
+libc = "musl"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "4ed7278136fcf82c769c4cf79895ce0e469ee559f65be089355b38a6fdff72f4"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.aarch64-linux-musl.tar.gz"
+[[Dust]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f3909d9a1bdc23383077fe50b1127b3849ba0357"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "e36d0bbc163c88b19789786fa15555122762ed946a33d6c9278e946651215eb2"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.armv6l-linux-gnueabihf.tar.gz"
+[[Dust]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "eb2aff6ac7a8ef169f9cccce515ae42219a0a1ff"
+libc = "musl"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "538d4b8ff52bf2a77b0c18fc5c4afa8b0e7be9097267c7791a4e06a58b69b8d2"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.armv6l-linux-musleabihf.tar.gz"
+[[Dust]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ade34673ab356cec5f2a6eb286d05160264ddba2"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "016d8979090eec26ea6d3471b4d10bf7f2968667bf50a8b03dc286add8de95d7"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.armv7l-linux-gnueabihf.tar.gz"
+[[Dust]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d41491960a78b8b57eacad011fdc6de5abafeb61"
+libc = "musl"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "e27d7cc39f291f071b74876800c2d108317ec703c8e452ed84860935a48ef8ba"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.armv7l-linux-musleabihf.tar.gz"
+[[Dust]]
+arch = "i686"
+git-tree-sha1 = "164b059c453645a21fa33d678e6f71df0038e67d"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "bfe215a5b71d1a5fcda3b945008d5817a2a5f2885fa32ebf0ab8ccf35211f9f5"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.i686-linux-gnu.tar.gz"
+[[Dust]]
+arch = "i686"
+git-tree-sha1 = "b68f57f121266965b997ef9bef7c130f11951ba1"
+libc = "musl"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "1580be6aca3d59be4ea19c6c4b9ef6190be4d62696748dca656367a02893c8e7"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.i686-linux-musl.tar.gz"
+[[Dust]]
+arch = "powerpc64le"
+git-tree-sha1 = "e992a2624f16edd9fa2c4665f9c3d424a4bcb871"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "cec658f81f9d41af5162813ea0b17fde78fba78ebc92ce52c862c153a98cd509"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.powerpc64le-linux-gnu.tar.gz"
+[[Dust]]
+arch = "x86_64"
+git-tree-sha1 = "eff820920ef71dcd9bb3a2eadac3f4d01a09b76e"
+os = "macos"
+
+    [[Dust.download]]
+    sha256 = "1c018c6092608bb1068a187a6ef892b4e11a787ec0e4c926a3ea7d4969a99d24"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.x86_64-apple-darwin.tar.gz"
+[[Dust]]
+arch = "x86_64"
+git-tree-sha1 = "e32e5bc39978d49cd89cf281c8aa120af0beccf4"
+libc = "glibc"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "a874dee65b3ed2674a5dc3763ed54fc7c6b3ec5912fc062ede962cb4727b480d"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.x86_64-linux-gnu.tar.gz"
+[[Dust]]
+arch = "x86_64"
+git-tree-sha1 = "6a0d627ca48fef227f353fa81975602c82268db4"
+libc = "musl"
+os = "linux"
+
+    [[Dust.download]]
+    sha256 = "e013f65a851a701083f2c79abe0d328799ae7d264824721a31dd346576d0f263"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.x86_64-linux-musl.tar.gz"
+[[Dust]]
+arch = "x86_64"
+git-tree-sha1 = "dcb7d6ace3ffeba72931899c67e540cf37876ccd"
+os = "freebsd"
+
+    [[Dust.download]]
+    sha256 = "71eed0367e86c6ac6f3b8dc02bf65c8ca763e37e64ab6c9aca6112387ca3420f"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.x86_64-unknown-freebsd.tar.gz"
+[[Dust]]
+arch = "x86_64"
+git-tree-sha1 = "7f8737f08a98a767f3b493b91c183269413e6f3a"
+os = "windows"
+
+    [[Dust.download]]
+    sha256 = "f7cdb2c3c72cf2e3b9c43ebc4abbfa2c649c18e2f0a39af77281f1d8ceae5ec4"
+    url = "https://github.com/JuliaBinaryWrappers/Dust_jll.jl/releases/download/Dust-v0.8.3+0/Dust.v0.8.3.x86_64-w64-mingw32.tar.gz"
